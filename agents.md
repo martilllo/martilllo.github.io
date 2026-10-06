@@ -54,8 +54,8 @@ Orden exacto de preguntas al crear (2026-10-02):
 - **Alineación:** de angelical (+1000) a satánico (−1000) según a quién mates. Afecta qué equipo puedes usar (flags anti-good/anti-evil → «zap» si no cumples) y hechizos como *rayo de sinceridad/corrupción*. Se detecta con *detectar bondad/maldad* (aura dorada = bueno, roja = malo, sin aura = neutral).
 - **Experiencia máxima por mob:** 250 XP. Influye la diferencia de nivel y la alineación (misma moral = menos XP).
 - **Guardar el personaje:** un pj nuevo **no se guarda hasta nivel 3** (verificado). Desde ahí se guarda solo; aun así `backup` manual da el mensaje «Perfecto, has hecho un BACKUP de tu ficha» (verificado).
-- **Subida de nivel (verificado):** mensaje «¡¡¡ HAS SUBIDO UN NIVEL !!!» + ganancias de HP/maná/mov y **+1 práctica** por nivel. Al subir, el título visible pasa automáticamente al **título de clase** (ej. ranger → «El Acechador»): hay que reaplicar el título personal con `titulo` tras cada subida.
-- **Morir:** no pierdes nivel ni equipo; pierdes 2/3 de la XP ganada desde el último nivel. Tu cadáver va a la Cámara de Cadáveres (laberinto bajando desde el curandero); recógelo pronto o se pudre y cualquiera podrá saquearlo. Hasta nivel 5, si abandonaste sin recoger: `equipmin` te da luz, escudo y arma básicos.
+- **Subida de nivel (verificado):** mensaje «¡¡¡ HAS SUBIDO UN NIVEL !!!» + ganancias de HP/maná/mov y **prácticas** (verificado: 2 al pasar a 12 y 3 al pasar a 13; varía con los atributos). En algunos niveles se desbloquean conjuros nuevos para practicar (verificado en ranger a nivel 13: *piel de corteza* y *espíritu animal*). Al subir, el título visible pasa automáticamente al **título de clase** (ej. ranger → «El Acechador»): hay que reaplicar el título personal con `titulo` tras cada subida.
+- **Morir:** no pierdes nivel; pierdes 2/3 de la XP ganada desde el último nivel. Tu equipo queda en el cadáver, que va a la Cámara de Cadáveres (laberinto bajando desde el curandero); **si no lo recoges pronto, lo pierdes**: el cadáver puede desaparecer rápido (verificado dos veces: al llegar ya no estaba). Hasta nivel 5 según la guía, si abandonaste sin recoger: `equipmin` te da luz, escudo y arma básicos — **verificado: sigue funcionando en niveles 6–10, pero a nivel 12 ya no equipa nada**.
 
 ## 5. Comandos esenciales
 
@@ -86,6 +86,8 @@ Orden exacto de preguntas al crear (2026-10-02):
 | Serías un bonito cadáver adornando la calle | +10 o más |
 
 **Regla práctica:** atacar solo lo que salga fácil o perfecto. Nada de +5 o más.
+
+- **«No es digno de tu esfuerzo» aún da XP:** un mob muy por debajo de tu nivel rinde poco, pero no cero (verificado a nivel 12: 17–19 XP). Sirven como relleno cuando no hay nada mejor; no los descartes por el aviso.
 
 ### Ficha, entrenamiento y prácticas
 | Comando | Para qué |
