@@ -68,7 +68,7 @@ Orden exacto de preguntas al crear (2026-10-02):
 | `otear` / `otear <dirección>` | Ver mobs cercanos (hasta 3 salas en esa dirección) |
 | `considerar <objetivo>` | Medir nivel del mob antes de atacar (tabla abajo) |
 | `matar` / `atacar <objetivo>` | Iniciar combate |
-| `huir` | Escapar de un combate perdido |
+| `huir` | Escapar de un combate perdido. **Cuesta XP** (verificado: 10 XP a nivel bajo y 25 XP a nivel 13 con `recall` en combate): úsalo para vivir, no como rutina |
 | `coger todo cuerpo` | Saquear un cadáver (oro y equipo) |
 | `sacrificar <cuerpo/objeto>` | Ofrecerlo a tu dios por plata; las monedas que da ÷ 3 ≈ nivel del mob/objeto (truco para medir niveles). **Ojo:** es lento; solo compensa si buscas plata, no para farmear XP (verificado: en la Arena los cadáveres traen «Nada.» y el ingreso era por sacrificios de +3 a +12 plata) |
 | `recall` | Volver al punto de inicio (Templo de Midgaard) |
@@ -89,6 +89,8 @@ Orden exacto de preguntas al crear (2026-10-02):
 **Regla práctica:** atacar solo lo que salga fácil o perfecto. Nada de +5 o más.
 
 - **«No es digno de tu esfuerzo» aún da XP:** un mob muy por debajo de tu nivel rinde poco, pero no cero (verificado a nivel 12: 17–19 XP). Sirven como relleno cuando no hay nada mejor; no los descartes por el aviso.
+
+- **Resolución de nombres genéricos:** `matar <nombre>` puede enganchar al mob peligroso de nombre parecido que haya cerca, no al débil que querías (verificado: `matar goblin` en la Fortaleza resolvió al teniente goblin y entraron dos enemigos). Con `considerar` y nombres completos siempre que se pueda.
 
 ### Ficha, entrenamiento y prácticas
 | Comando | Para qué |
@@ -300,3 +302,12 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 
 - Ruta desde `recall`: `.2s,3e,4n,2w,3n,2e,n,e,n` y luego abajo; comparte el arranque con las Llanuras del Norte.
 - Mobs medidos a nivel 13: elfo = **6 XP**, chucho (perro) = **0 XP**; `considerar` los marca «no es digno de tu esfuerzo». No compensa a nivel 13.
+
+## Fortaleza Goblin (descartada 2026-10-06, nivel 13)
+
+- Ruta desde `recall`: `.6s,2e,3s,2w,7s,2e,5s`. A la entrada hay **dos tenientes goblin juntos** (grupo).
+- En el túnel, un «goblin» solitario engaña: `matar goblin` resolvió al **teniente** y entraron dos enemigos, con intentos de desarme y zancadilla y daño sostenido. Teniente = **+20 XP a nivel 13**, pero la zona no permite singles seguros: **descartada para farmear**.
+
+## Bosque Sagrado (entrada no localizada, 2026-10-06)
+
+- `areas2` lo lista 5–20 con ruta `3s8en`, pero no se encontró entrada practicable: el callejón es sin salida (muro cerrado) y el Santuario del Portal Druídico denegó la entrada. Pendiente de otra vía.
