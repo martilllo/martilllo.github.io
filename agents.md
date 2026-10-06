@@ -326,3 +326,4 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 ## Reino Enano (tránsito probado 2026-10-06)
 
 - Tránsito por el Bosque Oscuro de los Enanos (valle → sendero oscuro → curva) hacia un arroyo y un bosque élfico, sin ningún enano single medible en el recorrido. La entrada con enanos queda sin localizar.
+- Casa #1513: el científico es baja válida cuando está **solo** en la casa (sin la mujer ni el niño); si ellos están dentro, no se ataca. Con Tienda #1514 y Cabaña #1519, la ronda completa rinde ~42 XP a nivel 13.
