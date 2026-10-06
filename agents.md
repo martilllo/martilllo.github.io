@@ -289,3 +289,9 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 - Entrada por el Sendero en Desuso → «La Entrada a las Minas» → «Un Pozo Minero». Salas iluminadas.
 - Mob medido: minero Hobgoblin single = **5 XP a nivel 12** — inviable. Cerca quedan «Barracas» y «Armería» hobgoblin (sin medir).
 - «La Armería Hobgoblin»: vacía de mobs (solo armas tiradas). «Las Barracas de los Hobgoblins»: DOS soldados Hobgoblin juntos — grupo, no medibles como singles.
+
+## Llanuras del Norte (probada 2026-10-06, nivel 13)
+
+- Ruta desde `recall`: `.2s,3e,4n,2w,3n`. Camino, colina y praderas de entrada **sin mobs**; fauna suelta escasa (loba sola en el sendero).
+- **La loba paga 0 XP a nivel 13**: la entrada de la zona no compensa para levear a este nivel.
+- Al norte del sendero hay un mirador que bordea la entrada del **Valle de los Elfos** (otra zona).
