@@ -316,3 +316,13 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 ## Aldea Abandonada (entrada no localizada, 2026-10-06)
 
 - `areas2` la lista 10–20 con ruta «3s, 13o, so» desde el templo. Siguiéndola se sale por el Portón Oeste al Linde del Bosque y a senderos del Bosque Iluminado/Denso, donde el suroeste no es salida válida: no se localizó la entrada ni mobs suyos en este tanteo.
+
+## Torre Wyvern (exterior probado 2026-10-06, nivel 13)
+
+- Ruta desde `recall`: `.2s,6e,4s,2e,s,2e,d,e` más avance extra. Caminos exteriores con tramperos, cazadores, guardabosques y centauros (también en pareja: no atacar grupos).
+- Centauro single medido: **+14 XP a nivel 13** (como la Aldea Gnoma).
+- Las **torres gemelas** están rodeadas por un foso que exige un **bote**. El barril del viejo almacén no sirve como bote. La tienda de los alrededores no responde como tienda (`lista` rechazado y las compras no descuentan plata): origen del bote sin resolver.
+
+## Reino Enano (tránsito probado 2026-10-06)
+
+- Tránsito por el Bosque Oscuro de los Enanos (valle → sendero oscuro → curva) hacia un arroyo y un bosque élfico, sin ningún enano single medible en el recorrido. La entrada con enanos queda sin localizar.
