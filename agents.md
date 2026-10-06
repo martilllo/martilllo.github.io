@@ -295,3 +295,8 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 - Ruta desde `recall`: `.2s,3e,4n,2w,3n`. Camino, colina y praderas de entrada **sin mobs**; fauna suelta escasa (loba sola en el sendero).
 - **La loba paga 0 XP a nivel 13**: la entrada de la zona no compensa para levear a este nivel.
 - Al norte del sendero hay un mirador que bordea la entrada del **Valle de los Elfos** (otra zona).
+
+## Valle de los Elfos (probada 2026-10-06, nivel 13)
+
+- Ruta desde `recall`: `.2s,3e,4n,2w,3n,2e,n,e,n` y luego abajo; comparte el arranque con las Llanuras del Norte.
+- Mobs medidos a nivel 13: elfo = **6 XP**, chucho (perro) = **0 XP**; `considerar` los marca «no es digno de tu esfuerzo». No compensa a nivel 13.
