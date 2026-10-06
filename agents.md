@@ -311,3 +311,7 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 ## Bosque Sagrado (entrada no localizada, 2026-10-06)
 
 - `areas2` lo lista 5–20 con ruta `3s8en`, pero no se encontró entrada practicable: el callejón es sin salida (muro cerrado) y el Santuario del Portal Druídico denegó la entrada. Pendiente de otra vía.
+
+## Aldea Abandonada (entrada no localizada, 2026-10-06)
+
+- `areas2` la lista 10–20 con ruta «3s, 13o, so» desde el templo. Siguiéndola se sale por el Portón Oeste al Linde del Bosque y a senderos del Bosque Iluminado/Denso, donde el suroeste no es salida válida: no se localizó la entrada ni mobs suyos en este tanteo.
