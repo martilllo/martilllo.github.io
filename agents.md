@@ -43,7 +43,7 @@ Orden exacto de preguntas al crear (2026-10-02):
 - **Personalización:** si eres nuevo, responder **No**. Personalizar mal sube el costo de XP por nivel. Regla de la guía: nunca pasar de 50–60 puntos de creación (cada punto ≈ +100 XP/nivel; pasado 60 cobra el doble).
 - **Arma inicial recomendada por clase:** guerrero/ranger → espada · clérigo → maza · mago/ladrón → daga. En un humano ranger solo se ofreció espada (verificado).
 
-- **Deslumbramiento de mobs (verificado 2026-10-06 en la Aldea gnoma):** el científico puede cegar con un hechizo de deslumbramiento; la ceguera dura más de un minuto y bloquea localizar/atacar mobs («no está por aquí»). Mitigación: dejar al cegador para el final del circuito o curarse con `conjurar curar deslumbrar`.
+- **Deslumbramiento de mobs (verificado 2026-10-06 en la Aldea gnoma):** el científico puede cegar con un hechizo de deslumbramiento; la ceguera dura más de un minuto y bloquea localizar/atacar mobs («no está por aquí»). Mitigación: dejar al cegador para el final del circuito o curarse con `conjurar curar deslumbrar` (cura propia verificada: restaura la vista).
 
 ## 4. Conceptos base
 
