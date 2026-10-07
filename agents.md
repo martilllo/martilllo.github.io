@@ -190,6 +190,9 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 | 5–10 | Cementerio | `.2s,3e,7s,w,s` |
 | 5–15 | Moria | `.2s,6e,3n` |
 | 5–15 | Fábrica de Mobs | `.2s,3w,3s,e` |
+
+- **Marinero de Midgaard (verificado 2026-10-07):** es entrenador, no tendero; `lista` no funciona con él y no hay bote/barca/balsa/barco localizable ni comprable en la ciudad. La Tienda de Jonicia solo alquila artefactos legendarios (50.000–200.000). El foso de Torre Wyvern sigue sin cruzarse sin bote.
+- **Fábrica de Mobs a nivel 13 (verificado 2026-10-07):** el Suboficial del hall sale «adversario perfecto», pero el daño propio (~5–6 por asalto) no compensa el recibido (~10 por asalto); prueba abortada con 0 bajas. La zona sigue descartada para farmeo en solitario a este nivel; la Aldea gnoma continúa como ruta que rinde.
 | 5–20 | Aldea gnoma | `.2s,8e,s` |
 | 5–20 | Valle de los Elfos | `.2s,3e,4n,2w,3n,2e,n,e,n` |
 | 5–20 | Arenas del Desierto | `.2s,5e` |
