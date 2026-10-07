@@ -332,3 +332,5 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 
 - Tránsito por el Bosque Oscuro de los Enanos (valle → sendero oscuro → curva) hacia un arroyo y un bosque élfico, sin ningún enano single medible en el recorrido. La entrada con enanos queda sin localizar.
 - Casa #1513: el científico es baja válida cuando está **solo** en la casa (sin la mujer ni el niño); si ellos están dentro, no se ataca. Con Tienda #1514 y Cabaña #1519, la ronda completa rinde ~42 XP a nivel 13.
+
+- **Cruce del foso de Torre Wyvern y acceso al Reino Enano (dicho por un jugador en el canal de novatos, 2026-10-07; sin verificar en persona todavía):** el foso no se cruza en bote sino con el hechizo **VOLAR** («para cruzar el pozo puedes ponerte el spell VOLAR») y la poción de volar se vende en la **tienda de pociones de Midgaard**; el **Reino Enano** se ubica en la lista de zonas y la ruta es automática («en la lista que sale ubicas REINO ENANO y le das a la ruta»). Coherente con que en Midgaard no se vende ningún bote físico (verificado en juego). Falta comprobar en persona: precio de la poción y que la ruta automática te deja dentro.
