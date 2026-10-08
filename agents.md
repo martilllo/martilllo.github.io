@@ -354,3 +354,5 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 - **2026-10-07: NIVEL 15.** Farmeo en Aldea Abandonada (Naranja +189 y Rosa +143): +12 PV / +7 maná / +6 mov / 3 prácticas. Ritual: backup ok; título reaplicado; Elladam entrenó **DES 14→15**; prácticas: aporreo 100% y parada 100% al tope, piel de corteza 96% al tope, espíritu animal 91→95% con 1 práctica y las 2 restantes a `rastrear` (y luego `totem animal tortuga` si sobra). Estado: EXP 31.535, faltan 2.065 al 16; máximos 191 PV / 192 maná / 184 mov.
 
 - **Decadencia suave al 15 y nuevo Slime Transparente (verificado 2026-10-07):** la Aldea sigue pagando, pero al nivel 15 los pagos caen un poco (Rosa ~113-136, Azul ~76-94; Naranja 165-196 sigue siendo el rey). El **Slime Transparente** dejó 52-70 XP medido: seguro, pero solo de filler como el Verde.
+
+- **2026-10-08: NIVEL 16.** Subida con un Slime Naranja solitario de la Aldea (+181 XP): +15 PV / +6 maná / +6 mov / 3 prácticas. Ritual: backup ok; título reaplicado; Elladam entrenó **FUE 17→18**; prácticas a 0 (`rastrear` 95%, `totem animal tortuga` 81%). Estado: EXP 33.682, faltan 2.018 al 17; máximos 206 PV / 198 maná / 190 mov.
