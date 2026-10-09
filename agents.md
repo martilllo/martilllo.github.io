@@ -13,6 +13,7 @@
 - Sitio oficial: https://www.petriamud.com
 - Guía de principiantes (fuente principal de teoría): https://www.petriamud.com/wp-content/uploads/2024/08/guia_principiantes_v2.html
 - Mapas y rutas: https://www.petriamud.com/mapas/
+- **Inventarios oficiales del sitio web (orden de Andrés, 2026-10-09):** la web oficial de Petria también publica inventarios (listados de objetos/equipo) y hay que usarlos como fuente para decidir equipo por nivel antes de comprar o farmear equipo en el juego.
 - Reglas: https://www.petriamud.com/reglas/
 
 ## 2. Cómo conectarse
