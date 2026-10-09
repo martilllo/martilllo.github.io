@@ -193,6 +193,7 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 
 - **Marinero de Midgaard (verificado 2026-10-07):** es entrenador, no tendero; `lista` no funciona con él y no hay bote/barca/balsa/barco localizable ni comprable en la ciudad. La Tienda de Jonicia solo alquila artefactos legendarios (50.000–200.000). El foso de Torre Wyvern sigue sin cruzarse sin bote.
 - **Fábrica de Mobs a nivel 13 (verificado 2026-10-07):** el Suboficial del hall sale «adversario perfecto», pero el daño propio (~5–6 por asalto) no compensa el recibido (~10 por asalto); prueba abortada con 0 bajas. La zona sigue descartada para farmeo en solitario a este nivel; la Aldea gnoma continúa como ruta que rinde.
+- **Fábrica de Mobs a nivel 19 (reverificado 2026-10-09):** un ladrón solitario de la entrada, considerado muy inferior, cayó en ~6 asaltos por solo 19 PV de costo y pagó **0 XP**. Descartada de forma definitiva para leveo a este nivel.
 | 5–20 | Aldea gnoma | `.2s,8e,s` |
 | 5–20 | Valle de los Elfos | `.2s,3e,4n,2w,3n,2e,n,e,n` |
 | 5–20 | Arenas del Desierto | `.2s,5e` |
