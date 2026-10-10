@@ -320,9 +320,20 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 
 - `areas2` lo lista 5–20 con ruta `3s8en`, pero no se encontró entrada practicable: el callejón es sin salida (muro cerrado) y el Santuario del Portal Druídico denegó la entrada. Pendiente de otra vía.
 
-## Aldea Abandonada (entrada no localizada, 2026-10-06)
+## Aldea Abandonada (granja principal a nivel 20; salas y conexiones verificadas 2026-10-09/10)
 
-- `areas2` la lista 10–20 con ruta «3s, 13o, so» desde el templo. Siguiéndola se sale por el Portón Oeste al Linde del Bosque y a senderos del Bosque Iluminado/Denso, donde el suroeste no es salida válida: no se localizó la entrada ni mobs suyos en este tanteo.
+Anillo principal (es la única parte farmeable aquí; todo lo demás de la zona queda fuera de la lista):
+
+- **«La entrada a la Aldea»** → **«Un cruce de caminos»** (#7904): NO → Una calle principal, NE → camino exterior, SE → La entrada a la Aldea, SO → Un puente de madera.
+- **«Un molino abandonado»**: SE → Un puente de madera.
+- **«Un cruce de senderos»**: NO → Un muro de piedra, SE → Un claro junto al río (sin usar), SO → Una casa derruida, NE → Un puente de madera.
+- **«Un muro de piedra»**: NO → Una curva en el camino, SE → Un cruce de senderos.
+- **«Una curva en el camino»**: SE → Un muro de piedra, SO → un «Un cruce de caminos» secundario.
+- **Cruce de caminos secundario**: NO → entrada al antiguo templo (**NO USAR**). Tampoco usar el campamento abandonado que se alcanza vía «un pequeño sendero».
+- **«un pequeño sendero»**: SE → «Un campo de cultivo». **«Un campo de cultivo»**: NO → «Una casa maltrecha». **«Una casa maltrecha»**: SE → el campo.
+- **«Una calle lateral»**: NE → La plaza principal, SO → calle principal. «La posada» y «Un patio trasero» son salas del anillo; calle principal en tramos NO/SE con la plaza principal #7911 según tramo.
+
+Mobs del anillo: Slime Naranja (el único que paga XP a nivel 20: solitario o pareja exacta de dos). Slime Amarillo: ácido (~52 PV el primer golpe) y peste, `considerar` engañoso: prohibido siempre. Slime Rosa/Azul/Verde/Transparente pagan 0 XP a nivel 20. Peligro verificado: el conjunto «antiguo templo y ruinas» traba la navegación en bucles y come las ventanas de farmeo; se deja fuera del anillo.
 
 ## Torre Wyvern (exterior probado 2026-10-06, nivel 13)
 
