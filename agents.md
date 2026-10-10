@@ -326,11 +326,11 @@ Anillo principal (es la única parte farmeable aquí; todo lo demás de la zona 
 
 - **«La entrada a la Aldea»** → **«Un cruce de caminos»** (#7904): NO → Una calle principal, NE → camino exterior, SE → La entrada a la Aldea, SO → Un puente de madera.
 - **«Un molino abandonado»**: SE → Un puente de madera.
-- **«Un cruce de senderos»**: NO → Un muro de piedra, SE → Un claro junto al río (sin usar), SO → Una casa derruida, NE → Un puente de madera.
+- **«Un cruce de senderos»**: NO → Un muro de piedra (anillo), NE → Un puente de madera (anillo), SE → Un claro junto al río (**PROHIBIDO**), SO → Una casa derruida (**PROHIBIDO**).
 - **«Un muro de piedra»**: NO → Una curva en el camino, SE → Un cruce de senderos.
 - **«Una curva en el camino»**: SE → Un muro de piedra, SO → un «Un cruce de caminos» secundario.
-- **Cruce de caminos secundario**: NO → entrada al antiguo templo (**NO USAR**). Tampoco usar el campamento abandonado que se alcanza vía «un pequeño sendero».
-- **«un pequeño sendero»**: SE → «Un campo de cultivo». **«Un campo de cultivo»**: NO → «Una casa maltrecha». **«Una casa maltrecha»**: SE → el campo.
+- **Cruce de caminos secundario**: NO → entrada al antiguo templo (**PROHIBIDO**), SE → restos de una casa (**PROHIBIDO**). Salidas del anillo: NE → curva en el camino, SO → un pequeño sendero.
+- **«un pequeño sendero»**: SO → «Un campo de cultivo» (anillo); SE → «Un campamento abandonado» (**PROHIBIDO**, entrada por error una vez, salida inmediata al NO). **«Un campo de cultivo»**: NO → «Una casa maltrecha». **«Una casa maltrecha»**: SE → «Un campo de cultivo» (confirmado); NO → campos de trigo (**PROHIBIDO**).
 - **«Una calle lateral»**: NE → La plaza principal, SO → calle principal. «La posada» y «Un patio trasero» son salas del anillo; calle principal en tramos NO/SE con la plaza principal #7911 según tramo.
 
 Mobs del anillo: Slime Naranja (el único que paga XP a nivel 20: solitario o pareja exacta de dos). Slime Amarillo: ácido (~52 PV el primer golpe) y peste, `considerar` engañoso: prohibido siempre. Slime Rosa/Azul/Verde/Transparente pagan 0 XP a nivel 20. Peligro verificado: el conjunto «antiguo templo y ruinas» traba la navegación en bucles y come las ventanas de farmeo; se deja fuera del anillo.
