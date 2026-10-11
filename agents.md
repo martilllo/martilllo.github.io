@@ -94,7 +94,7 @@ Orden exacto de preguntas al crear (2026-10-02):
 
 - **«No es digno de tu esfuerzo» aún da XP:** un mob muy por debajo de tu nivel rinde poco, pero no cero (verificado a nivel 12: 17–19 XP). Sirven como relleno cuando no hay nada mejor; no los descartes por el aviso.
 
-- **Resolución de nombres genéricos:** `matar <nombre>` puede enganchar al mob peligroso de nombre parecido que haya cerca, no al débil que querías (verificado: `matar goblin` en la Fortaleza resolvió al teniente goblin y entraron dos enemigos). Con `considerar` y nombres completos siempre que se pueda.
+- **Resolución de nombres genéricos:** `matar <nombre>` puede enganchar al mob peligroso de nombre parecido que haya cerca, no al débil que querías (verificado: `matar goblin` en la Fortaleza resolvió al teniente goblin y entraron dos enemigos). Con `considerar` y nombres completos siempre que se pueda. **Sonda de color (verificado 2026-10-11 en la Aldea Abandonada):** un `considerar` genérico sobre el primer slime de la sala revela su color verdadero aunque la línea de la sala no lo nombre; sirve para identificar sin atacar, y todo lo que nombre como no objetivo queda prohibido igual.
 
 ### Ficha, entrenamiento y prácticas
 | Comando | Para qué |
