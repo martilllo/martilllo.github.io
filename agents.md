@@ -122,6 +122,23 @@ Orden exacto de preguntas al crear (2026-10-02):
 
 **Banco de Midgard (localizado y verificado el 2026-10-11):** desde el Altar del Templo de Mota son 6 movimientos: sur (sala del templo), sur (Plaza del Templo), sur (Plaza del Mercado), sur (Plaza de los Comunes), sur (vertedero) y este (entrada del banco: cajero tras rejas y banquero; oficina del director al norte y bóveda más allá). Vuelta verificada: oeste y norte cinco veces hasta el Altar. El banco custodia **solo oro** (verificado en la práctica: la plata no se puede depositar), sin intereses, con comandos de depósito, retiro y saldo en la entrada (ayuda COMR-03 del propio juego).
 
+### Midgard: barrido completo de comercio y servicios (verificado 2026-10-11)
+- **Horarios:** casi todo el comercio cierra de noche. Verificadas cerradas de noche: Tienda General, Joyería, Guarnicionería y el bar de la posada. Verificadas abiertas de noche: **Panadería** y **Tienda de Magia**. Todo precio en la ciudad es en plata.
+- **Panadería** (norte de Calle Principal oeste 1): solo comida; barra de pan 9, pastel danés 5, pastelitos 12, rollo de canela 17, gran tarta 24.
+- **Tienda de Magia** (norte de Calle Principal oeste 2): 6 artículos: varita de misil mágico 336, **anillo de protección 672**, pergamino de retorno 3.045, pergamino de cancelación 1.249, pergamino de identificar 934 y **la única poción vendida en toda la ciudad**: poción amarilla de detectar invisibilidad, 231. **No hay tienda de pociones en Midgard ni se vende poción de volar** en ninguna tienda revisada.
+- **Tienda General** (norte de Calle Principal este 1, de día): caja 45, bolsa 13, odre 36, linterna de latón 112, antorcha 6.
+- **Joyería** (sur de este 1, de día): solo gemas sueltas (550 a 11.000); **no vende anillos ni collares ponibles**.
+- **Guarnicionería** (sur de oeste 1, de día): 15 piezas de armadura, 420 a 1.320 (mangas de malla, guantes, botas de hierro, grebas y cofia 660; cota 1.320; gran escudo metálico 1.190).
+- **Armería** (norte de este 2, de día): 10 armas, 92 a 780 (espada larga 732, hacha de guerra 780). Vive un gato callejero dentro.
+- **Mercado de pulgas** (oeste del vertedero): atendido por una hermandad caritativa; **todo el equipo es GRATIS**, donado por jugadores y organizado por bandas de nivel (1 a 10, 11 a 20, 31 a 40); la sección 11 a 20 estaba vacía en la visita y no se encontró banda 21 a 30. Refrescos gratis en la plaza de entrada. El stock rota.
+- **Posada** (este de la Plaza del Templo): el bar vende bebidas por el posadero y cierra de noche; arriba de la entrada está la **Recepción de Difuntos**, la oficina de recuperación de cadáveres.
+- **Trastienda minera** (norte de la Tienda General): un minero enano barbudo comercia con menas, piedras, pepitas y minerales; su lista nunca se abrió (respondió «cerrado» de noche y de mañana): horarios y condiciones sin verificar. No es cambista de monedas.
+- **Hechicera Anfitriona** (Sala de Caminos, dentro de la Escuela): transporte mágico; se compra un billete de pasaje en la Escuela, se le entrega a ella y te envía a los destinos listados.
+- **Sala de Portales** (oeste de la Sala del Templo): un guardián y un portal señalizado a la Aldea Abandonada; la ruta segura a la Aldea sigue siendo la automática de la lista de zonas: `ir aldea abandonada` desde el Altar (verificado, funciona por la ruta guardada del personaje).
+- **Huecos sin oferta en la ciudad:** para cuello, espalda, cintura y flotante no existe artículo en ninguna tienda de Midgard; la fuente probable es el mercado de pulgas cuando rote su stock. Candidatos claros para huecos de Elelem: segundo anillo de protección (dedo derecho, 672, Tienda de Magia) y mangas de malla (antebrazos, 660, Guarnicionería).
+- **Otto:** en todo el barrido de Midgard (templo, escuela, posada, 8 tiendas, plazas, banco, mercado de pulgas, gremio de guerreros) **no apareció ningún NPC llamado Otto** ni ningún cambista de plata a oro; sin tasa de cambio de referencia en la economía de la ciudad.
+
+
 **Compras útiles para novato (tiendas de Midgaard, según la guía):** poción amarilla (ver invisible), poción gris (invisible, evita mobs agresivos débiles), poción transparente (Traspasar puertas sin llave), pergamino de identificar (ver stats de objetos), poción curar ceguera, poción de negación nv10 (quita hechizos). Habilidad *regatear* = descuentos. Ojo: a los tenderos les enfada que un ladrón intente robarles.
 **Verificado:** la Tienda de la Escuela (adepto de Fryar) vende «una barra de pan» por **9 plata**.
 
