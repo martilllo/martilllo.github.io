@@ -118,7 +118,7 @@ Orden exacto de preguntas al crear (2026-10-02):
 | `lista` | Ver qué vende una tienda y precios |
 | `comprar <objeto>` / `comprar <cant>*<objeto>` | Comprar (ej. `comprar 15*pan`) |
 | `valorar <objeto>` → `vender <objeto>` | Cotizar y vender lo que no uses |
-| Banco: depositar oro | El oro pesa; deposítalo para cargar más cosas. Capacidad de carga = nivel + DES (nº objetos) y FUE (peso). Los contenedores (mochilas, rocas) reducen peso, no cantidad de objetos |
+| Banco: depositar oro | El oro pesa; deposítalo para cargar más cosas. Capacidad de carga = nivel + DES (nº objetos) y FUE (peso). **Corrección verificada (2026-10-11):** las monedas NO pesan (son números, no objetos: la plata no se puede meter en contenedores) y guardar objetos en caja o bolsa NO reduce el peso cargado en la práctica (medido: 453/452 con 1 y con 10 núcleos guardados). El peso lo dan los objetos: 1 núcleo de slime = 1 unidad, 1 barra de pan = 1 unidad; al llegar al tope el juego rechaza recoger cualquier botín |
 
 **Banco de Midgard (localizado y verificado el 2026-10-11):** desde el Altar del Templo de Mota son 6 movimientos: sur (sala del templo), sur (Plaza del Templo), sur (Plaza del Mercado), sur (Plaza de los Comunes), sur (vertedero) y este (entrada del banco: cajero tras rejas y banquero; oficina del director al norte y bóveda más allá). Vuelta verificada: oeste y norte cinco veces hasta el Altar. El banco custodia **solo oro** (verificado en la práctica: la plata no se puede depositar), sin intereses, con comandos de depósito, retiro y saldo en la entrada (ayuda COMR-03 del propio juego).
 
