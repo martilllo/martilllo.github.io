@@ -120,6 +120,8 @@ Orden exacto de preguntas al crear (2026-10-02):
 | `valorar <objeto>` → `vender <objeto>` | Cotizar y vender lo que no uses |
 | Banco: depositar oro | El oro pesa; deposítalo para cargar más cosas. Capacidad de carga = nivel + DES (nº objetos) y FUE (peso). Los contenedores (mochilas, rocas) reducen peso, no cantidad de objetos |
 
+**Banco de Midgard (localizado y verificado el 2026-10-11):** desde el Altar del Templo de Mota son 6 movimientos: sur (sala del templo), sur (Plaza del Templo), sur (Plaza del Mercado), sur (Plaza de los Comunes), sur (vertedero) y este (entrada del banco: cajero tras rejas y banquero; oficina del director al norte y bóveda más allá). Vuelta verificada: oeste y norte cinco veces hasta el Altar. El banco custodia **solo oro** (verificado en la práctica: la plata no se puede depositar), sin intereses, con comandos de depósito, retiro y saldo en la entrada (ayuda COMR-03 del propio juego).
+
 **Compras útiles para novato (tiendas de Midgaard, según la guía):** poción amarilla (ver invisible), poción gris (invisible, evita mobs agresivos débiles), poción transparente (Traspasar puertas sin llave), pergamino de identificar (ver stats de objetos), poción curar ceguera, poción de negación nv10 (quita hechizos). Habilidad *regatear* = descuentos. Ojo: a los tenderos les enfada que un ladrón intente robarles.
 **Verificado:** la Tienda de la Escuela (adepto de Fryar) vende «una barra de pan» por **9 plata**.
 
