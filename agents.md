@@ -131,6 +131,8 @@ Orden exacto de preguntas al crear (2026-10-02):
 - Bebida: `beber <recipiente>` («Glup, glup...», verificado) / llenar con `llenar <recipiente> fuente`. Fuente de limonada en la Plaza de los Dioses (5 nortes desde recall): quita hambre y sed.
 - **Curandero de Midgaard** (`recall` → norte → `curar` para ver precios): leve 10 oro, serio 15, crítico 25, sanar 50, todo hp 100, mana 10, todo mana 80, refrescar (mov) 5, deslumbrar 20, veneno 25, enfermo 15, maldecir 50. Se sana con `curar <hechizo>`.
 - **Escuela (niveles bajos, verificado):** la **adepta de Gominola** en las Jaulas cura al descansar ahí (dejó a un nv5 en HP lleno, 63/63). El curandero a veces cura/protege gratis a niveles ≤10–20 que entran en su sala (no abusar entrando/saliendo).
+- **Curandero del Altar, correcciones verificadas (2026-10-10):** su menú `curar` es solo de curaciones y **todo cuesta oro** (5 a 100); no vende bendecir ni hechizos de apoyo. El paquete de apoyo (levitación, escudo de fuerza, fuerza, prisa y bendecir) se pide **en voz alta** al curandero, pero está **limitado por nivel**: a un nivel 21 se le negó por «demasiado mayor», y lo mismo a otro visitante de la misma banda. Para niveles altos solo queda su rotación ambiental pasiva, lenta y aleatoria, que puede no caer sobre ti en horas.
+- **Relanzar hechizos de duración (verificado 2026-10-10):** relanzar un buff aún activo se rechaza y aun así consume maná. Un buff a **0 h pero aún listado** en `afectado` sigue contando como activo; el relanzamiento solo prospera cuando el buff **desaparece del panel por completo**. Conjurar exige estar **de pie**: descansando el intento se rechaza sin gastar maná. Comer también exige estar despierto.
 
 ### Comunicación
 | Comando | Para qué |
