@@ -453,3 +453,7 @@ Mobs del anillo: Slime Naranja (el único que paga XP a nivel 20: solitario o pa
 
 - **Aparición doble de la lombriz púrpura gigante:** en la corrida 14 al nivel 22 había dos lombrices en la sala #5028 de Las Arenas del Desierto; la segunda agredió en cuanto cayó la primera y ambas pagaron con normalidad (25 y 42 XP, con sacrificios completos de 54 y 54 de plata de ofrenda, más 49 de monedas en el segundo cadáver). Si aparecen dos, se matan las dos con la pila protectora completa y se cura en la propia sala antes de volver a pie.
 - La serie de pagos al nivel 22 tras 15 bajas queda en 38, 33, 32, 37, 35, 42, 25, 26, 35, 42, 41, 30, 41, 25 y 42 XP, con Elelem en EXP 46.754 y 1.546 XP para el nivel 23.
+
+## Actualización de conocimiento (2026-10-18, barrido vecino)
+
+- **Salas vecinas de la sala de la lombriz (#5028):** la sala tiene salidas norte, este, sur y oeste (la oeste lleva a #5027). El barrido de un paso verificó que las vecinas norte, este y sur son salas genéricas «Las Arenas del Desierto» de la retícula del desierto, sin número propio en el mapa del cliente, y estaban completamente vacías: sin criaturas, sin objetos y sin lombrices. La aparición doble observada antes fue una coincidencia de reaparición dentro de la propia #5028, no una lombriz errante de una sala vecina.
